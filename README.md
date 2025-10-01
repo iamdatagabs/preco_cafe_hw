@@ -5,4 +5,4 @@ O repositório tem o arquivo com o código que foi executado no ambiente Google 
 
 Além disso, há a publicação do resumo feito com o Prof. Dr. Carlos T. S. Dias (USP)
 
-DISCLAIMER: O código traz atualizações nas análises realizadas
+DISCLAIMER: O código traz atualizações nas análises realizadas uma vez que o resumo foi publicado em 2024 e houve refatorações posteriores
